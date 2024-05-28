@@ -1,6 +1,6 @@
 name: Deploy ec2
 
- on:
+on:
   push:
     branches:
       - feature/*
